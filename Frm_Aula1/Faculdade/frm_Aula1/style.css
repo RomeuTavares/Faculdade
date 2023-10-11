@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.formi{
+    text-align: center;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+h1:hover{
+    background-color: pink;
+}
+
+input:focus{
+    background-color: rgba(0, 128, 0, 0.247);
+}
+span{
+    font-size: 25px;
+    color:crimson
+}
